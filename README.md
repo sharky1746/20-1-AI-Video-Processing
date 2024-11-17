@@ -7,13 +7,13 @@
 ---
 
 ## 수업 주요 내용
-- Gradient Descent와 Linear Regression  
+- **Gradient Descent와 Linear Regression**  
   알고리즘 성능 비교 및 반복 횟수에 따른 차이 분석.
 
-- TensorFlow 딥러닝 모델 구축  
+- **TensorFlow 딥러닝 모델 구축**  
   MNIST 데이터셋으로 Fully Connected Layer와 CNN 학습 및 성능 비교.
 
-- 탐색 알고리즘 구현  
+- **탐색 알고리즘 구현**  
   BFS, DFS, A*를 활용해 최적 경로 탐색 및 비용 분석.
 
 ---
@@ -39,9 +39,9 @@
 ---
 
 ## 활용 기술
-- 프로그래밍: Python, TensorFlow  
-- 알고리즘: Gradient Descent, Linear Regression, CNN, BFS, DFS, A*  
-- 데이터셋: MNIST  
+- **프로그래밍**: Python, TensorFlow  
+- **알고리즘**: Gradient Descent, Linear Regression, CNN, BFS, DFS, A*  
+- **데이터셋**: MNIST  
 
 ---
 
